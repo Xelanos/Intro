@@ -65,5 +65,3 @@ def quadratic_equation_user_input():
     else:
         print('The equation has 2 solutions: '
               + str(solution_1) + ' and ' + str(solution_2))
-
-quadratic_equation_user_input()
