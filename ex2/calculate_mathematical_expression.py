@@ -27,22 +27,22 @@ def multiply(num1, num2):
     return num1 * num2
 
 
-def calculate_mathematical_expression(NUMBER1, NUMBER2, OPERATOR):
+def calculate_mathematical_expression(first_number, second_number, operator):
     """ Takes two numbers (int or float) and one of the basic
     4 operators  {'+','-','*','/'} as a string and returns
      the result of using the operator with the numbers provided.
      """
-    if OPERATOR == '+':
-        return add(NUMBER1, NUMBER2)
+    if operator == '+':
+        return add(first_number, second_number)
 
-    elif OPERATOR == '*':
-        return multiply(NUMBER1, NUMBER2)
+    elif operator == '*':
+        return multiply(first_number, second_number)
 
-    elif OPERATOR == '-':
-        return subtract(NUMBER1, NUMBER2)
+    elif operator == '-':
+        return subtract(first_number, second_number)
 
-    elif OPERATOR == '/':
-        return divide(NUMBER1, NUMBER2)
+    elif operator == '/':
+        return divide(first_number, second_number)
     else:
         return None
 
@@ -57,11 +57,10 @@ def calculate_from_string(math_string):
     seprated_math_string=math_string.split(None,) #spiltting the stirng
 
     # extracting the numbers and operator
-    first_number=float(seprated_math_string[0])
-    second_number=float(seprated_math_string[2])
+    first_user_number=float(seprated_math_string[0])
+    second_user_number=float(seprated_math_string[2])
     operator=seprated_math_string[1]
 
-
-    return calculate_mathematical_expression(first_number, second_number
+    return calculate_mathematical_expression(first_user_number,
+                                             second_user_number
                                              , operator)
-

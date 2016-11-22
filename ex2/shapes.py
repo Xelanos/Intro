@@ -33,9 +33,9 @@ def shape_area():
 
     if shape_number == 1:
         # waits for radius input and returns circle area
-        rad = float(input())
+        user_radios = float(input())
 
-        return circle_area(rad)
+        return circle_area(user_radios)
 
     elif shape_number == 2:
         # waits for two legs input and returns rectangle area
