@@ -4,7 +4,7 @@ import math
 def create_list():
     """A function that takes multiple inputs from the user
     and returns each input in a block of a list.
-    function ends when user inputs ''(does not add '')
+    function ends when user inputs ''(empty string)(does not add '')
     """
     i = 0
     user_strings_list = list()
@@ -51,7 +51,10 @@ def average(num_list):
         return list_average
 
 
-print(average([]))
+def the_list_cycler(user_list_input , m):
+    """A joyful ride for lists that takes a list and cycle it
+    by 'm' spaces
+    for cycle see: """
 
 def cyclic(lst1,lst2):
     pass
