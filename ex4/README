@@ -1,0 +1,32 @@
+Xelanos
+308484625
+Or Mizrahi
+
+=============================
+=  README for ex4: Hangman  =
+=============================
+
+
+==================
+=  Description:  =
+==================
+A fun game of Hangman with an option for a hint to the user.
+Answer to question: 
+Thing i will have to change in my code bt functions: 
+
+'index_to_letter' and 'letter_to_index':
+I would need to change the algoritm since it assume it's input is a list asoccieted with ABC
+
+'choose_letter':
+change the range to 22 (hebrew alphabet size not including final letters)
+
+'checking_valid_input':
+remove the check for lowercase chars, as hebrew does not have them at all
+
+======================
+=  Special Comments  =
+======================
+I discussed the exercise with: Zitamar
+I also used:
+http://stackoverflow.com/
+https://docs.python.org/3/library/
