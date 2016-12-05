@@ -1,4 +1,4 @@
-from ex4 import hangman_helper
+import hangman_helper
 
 
 def concat_list(str_list):
@@ -222,17 +222,15 @@ def run_single_game(words_list):
                 printed_massage = hangman_helper.NON_VALID_MSG
 
         # if guessed the whole word, end the game.
-        # and ask for input (for new game)
         if pattern == random_word:
             hangman_helper.display_state(pattern, errors, wrong_guesses_list,
                                          hangman_helper.WIN_MSG, True)
-            return hangman_helper.get_input()
+            return None
 
     # if got out of the loop, user must have lost.
-    # asks for input in case of user wanting a new game
     hangman_helper.display_state(pattern, errors, wrong_guesses_list,
                                  hangman_helper.LOSS_MSG + random_word, True)
-    return hangman_helper.get_input()
+    return None
 
 
 def main():
@@ -240,7 +238,8 @@ def main():
     the_word_list = hangman_helper.load_words()
     run_another_game = True
     while run_another_game:
-        run_another_game = run_single_game(the_word_list)[1]
+        run_single_game(the_word_list)
+        run_another_game = hangman_helper.get_input()[1]
 
 
 if __name__ == "__main__":
