@@ -14,6 +14,23 @@ __MSG_HINT_COLOR__ = "blue"
 __DISPLAY__ = None
 __ROOT__ = None
 _rand = random.Random()
+
+MAX_ERRORS = len(__HANGMAN_IMAGES__)-1
+WIN_MSG = 'Correct guess, this is the word!!!'
+LOSS_MSG = 'You have run out of guesses, the word was: '
+ALREADY_CHOSEN_MSG = 'You have already chosen '
+NON_VALID_MSG = 'Please enter a valid letter'
+HINT_MSG = 'Consider choosing: '
+NO_HINTS_MSG = 'Hints not supported'
+DEFAULT_MSG = ''
+HINT = 1
+LETTER = 2
+PLAY_AGAIN = 3
+
+
+def seed(a=None):
+    _rand.seed(a)
+
 def start_gui_and_call_main(main):
     #Set up the GUI:
     get_display_obj()
@@ -47,7 +64,8 @@ def start_gui_and_call_main(main):
     #Set up the GUI:
     #get_display_obj()
     #Start GUI in a new thread:
-    t = TKthread()
+    global __TKTHREAD__
+    __TKTHREAD__ = TKthread()
 
     #run main:
     while not __ROOT__:
@@ -75,7 +93,7 @@ def get_random_word(words_list):
     '''
     return _rand.choice(words_list)
 
-def get_input():
+def get_input() -> object:
     return get_display_obj().get_input()
 
 
@@ -101,8 +119,8 @@ def get_display_obj():
 
 def close_gui():
     hangman = get_display_obj()
-    hangman.add_task(lambda:hangman.destroy())
-
+    __TKTHREAD__.root.quit()
+    #hangman.add_task(lambda:hangman.destroy())
 
 class Hangman():
     def __init__(self, root, ):
@@ -157,9 +175,9 @@ class Hangman():
 
     def update_gui(self):
         image_file = __HANGMAN_IMAGES__[self.err_cnt]
-        image_obj = PIL.Image.open(image_file)
-        photo = PIL.ImageTk.PhotoImage(image_obj)
-        #photo = tk.PhotoImage(file=image_file)
+        #image_obj = PIL.Image.open(image_file)
+        #photo = PIL.ImageTk.PhotoImage(image_obj)
+        photo = tk.PhotoImage(file=image_file)
         self.left_label.config(image=photo)
         self.left_label.image = photo # keep a reference!
         self.l_pattern.config(text="Pattern: " + ' '.join(self.pattern))
