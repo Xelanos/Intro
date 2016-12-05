@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1426bdce-2fb0-4cf7-b517-bab73fe47bc0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex4/hangman.py" afterPath="$PROJECT_DIR$/ex4/hangman.py" />
     </list>
     <ignored path="Intro.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -58,8 +57,8 @@
       <file leaf-file-name="hangman.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ex4/hangman.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-144">
-              <caret line="209" column="0" lean-forward="false" selection-start-line="209" selection-start-column="0" selection-end-line="209" selection-end-column="0" />
+            <state relative-caret-position="102">
+              <caret line="159" column="24" lean-forward="false" selection-start-line="159" selection-start-column="4" selection-end-line="159" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -631,7 +630,14 @@
       <option name="project" value="LOCAL" />
       <updated>1480900254815</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="All ex4 done">
+      <created>1480966568466</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1480966568466</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -686,7 +692,8 @@
     <MESSAGE value="nothing much" />
     <MESSAGE value="starting ex4" />
     <MESSAGE value="Part A done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Part A done" />
+    <MESSAGE value="All ex4 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="All ex4 done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -916,8 +923,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ex4/hangman.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-144">
-          <caret line="209" column="0" lean-forward="false" selection-start-line="209" selection-start-column="0" selection-end-line="209" selection-end-column="0" />
+        <state relative-caret-position="102">
+          <caret line="159" column="24" lean-forward="false" selection-start-line="159" selection-start-column="4" selection-end-line="159" selection-end-column="24" />
           <folding />
         </state>
       </provider>
