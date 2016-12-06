@@ -168,7 +168,7 @@ def run_single_game(words_list):
     chosen_letters = []
     wrong_guesses_list = []
     list_of_the_word = list(random_word)
-    pattern = '_' * len(random_word)
+    pattern = PATTERN_SPACE * len(random_word)
     printed_massage = hangman_helper.DEFAULT_MSG
     errors = 0
 
