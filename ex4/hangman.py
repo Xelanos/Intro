@@ -1,4 +1,20 @@
 import hangman_helper
+PATTERN_SPACE = '_'
+
+
+def letters_in_pattern(pattern):
+    """A function that takes a pattern and returns a list of the letters
+    in it, without doubles.
+    """
+    list_of_letters = []
+    for i in range(len(pattern)):
+        if pattern[i] == PATTERN_SPACE:
+            continue
+        elif pattern[i] in list_of_letters:
+            continue
+        else:
+            list_of_letters.append(pattern[i])
+    return list_of_letters
 
 
 def concat_list(str_list):
@@ -24,21 +40,9 @@ def update_word_pattern(word, pattern, letter):
         if letter_in_word == letter:
             pattern_listed[i] = letter
         # turn list back to string
-        updated_pattern = concat_list(pattern_listed)
+    updated_pattern = concat_list(pattern_listed)
 
     return updated_pattern
-
-
-def index_checker(string, letter):
-    """A function that takes a string and a letter
-    and returns a list with the indexes by order
-    in which the letter appears in the word
-    """
-    list_of_indexes = []
-    for (i, letter_in_word) in enumerate(string):
-        if letter_in_word == letter:
-            list_of_indexes.append(i)
-    return list_of_indexes
 
 
 def check_word_against_pattern(pattern, word):
@@ -46,13 +50,14 @@ def check_word_against_pattern(pattern, word):
     and returns true if the word fits the pattern (same letters in
     the same places) and false if not
     """
+    pattern_letters = letters_in_pattern(pattern)
     for i in range(len(pattern)):
-        if pattern[i] == "_":
-            continue
-        elif index_checker(pattern, pattern[i]) == \
-                index_checker(word, pattern[i]):
-            continue
-        else:
+        if pattern[i] == PATTERN_SPACE:
+            if word[i] in pattern_letters:
+                return False
+            else:
+                continue
+        elif pattern[i] != word[i]:
             return False
     return True
 
@@ -70,20 +75,19 @@ def filter_words_list(words_list, pattern, wrong_guess_lst):
 
         # remove word if word is not the same length as pattern
         if len(word) != len(pattern):
-            if word in words_filtered:
-                words_filtered.remove(word)
+            words_filtered.remove(word)
+            continue
 
-        # remove if contains a letter already known as wrong
+            # remove word if does not fit the reveled pattern
+        if not check_word_against_pattern(pattern, word):
+                words_filtered.remove(word)
+                continue
+
+            # remove if contains a letter already known as wrong
         for letter in wrong_guess_lst:
             if letter in list_of_word:
                 if word in words_filtered:
                     words_filtered.remove(word)
-
-        # remove word if does not fit the current reveled pattern
-        if not check_word_against_pattern(pattern, word):
-            if word in words_filtered:
-                words_filtered.remove(word)
-
     return words_filtered
 
 
@@ -102,21 +106,6 @@ def index_to_letter(index):
     Return the letter corresponding to the given index.
     """
     return chr(index + CHAR_A)
-
-
-def letters_in_pattern(pattern):
-    """A function that takes a pattern and returns a list of the letters
-    in it, without doubles.
-    """
-    list_of_letters = []
-    for i in range(len(pattern)):
-        if pattern[i] == '_':
-            continue
-        elif pattern[i] in list_of_letters:
-            continue
-        else:
-            list_of_letters.append(pattern[i])
-    return list_of_letters
 
 
 def list_to_max_letter(abc_indexes):
@@ -161,12 +150,10 @@ def checking_valid_input(expected_letter):
     """A function that takes a string an return true if it is a valid input
     valid input is 1 lowercase letter.
     """
-    if len(expected_letter) != 1:
-        return False
-    elif expected_letter.islower():
-        return True
-    else:
-        return False
+    if expected_letter.islower():
+        if len(expected_letter) == 1:
+            return True
+    return False
 
 
 def run_single_game(words_list):
@@ -181,7 +168,7 @@ def run_single_game(words_list):
     chosen_letters = []
     wrong_guesses_list = []
     list_of_the_word = list(random_word)
-    pattern = '_' * len(random_word)
+    pattern = PATTERN_SPACE * len(random_word)
     printed_massage = hangman_helper.DEFAULT_MSG
     errors = 0
 
@@ -197,8 +184,7 @@ def run_single_game(words_list):
                                                wrong_guesses_list)
             hint = choose_letter(filtered_words, pattern)
             printed_massage = hangman_helper.HINT_MSG + hint
-            hangman_helper.display_state(pattern, errors, wrong_guesses_list,
-                                         printed_massage + hint,)
+            continue
 
         # if user inputs a letter
         if user_choice == hangman_helper.LETTER:
@@ -210,6 +196,7 @@ def run_single_game(words_list):
                         pattern = update_word_pattern(random_word, pattern,
                                                       user_input)
                         chosen_letters.append(user_input)
+                        printed_massage = hangman_helper.DEFAULT_MSG
                     else:
                         errors += 1
                         wrong_guesses_list.append(user_input)
@@ -218,8 +205,10 @@ def run_single_game(words_list):
                 else:
                     printed_massage = hangman_helper.ALREADY_CHOSEN_MSG \
                                       + user_input
+                    continue
             else:
                 printed_massage = hangman_helper.NON_VALID_MSG
+                continue
 
         # if guessed the whole word, end the game.
         if pattern == random_word:
@@ -245,7 +234,3 @@ def main():
 if __name__ == "__main__":
     hangman_helper.start_gui_and_call_main(main)
     hangman_helper.close_gui()
-
-
-
-
