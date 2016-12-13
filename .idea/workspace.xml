@@ -2,6 +2,1348 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1426bdce-2fb0-4cf7-b517-bab73fe47bc0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/ex6.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/im1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1000.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1001.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1002.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1003.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1004.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1005.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1006.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1007.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1008.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1009.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile101.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1010.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1011.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1012.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1013.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1014.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1015.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1016.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1017.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1018.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1019.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile102.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1020.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1021.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1022.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1023.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1024.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1025.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1026.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1027.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1028.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1029.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile103.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1030.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1031.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1032.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1033.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1034.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1035.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1036.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1037.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1038.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1039.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile104.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1040.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1041.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1042.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1043.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1044.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1045.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1046.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1047.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1048.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1049.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile105.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1050.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1051.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1052.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1053.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1054.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1055.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1056.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1057.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1058.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1059.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile106.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1060.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1061.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1062.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1063.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1064.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1065.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1066.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1067.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1068.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1069.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile107.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1070.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1071.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1072.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1073.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1074.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1075.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1076.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1077.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1078.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1079.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile108.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1080.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1081.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1082.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1083.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1084.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1085.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1086.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1087.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1088.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1089.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile109.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1090.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1091.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1092.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1093.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1094.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1095.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1096.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1097.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1098.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1099.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile110.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1101.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1102.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1103.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1104.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1105.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1106.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1107.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1108.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1109.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile111.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1110.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1111.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1112.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1113.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1114.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1115.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1116.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1117.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1118.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1119.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile112.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1120.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1121.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1122.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1123.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1124.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1125.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1126.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1127.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1129.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile113.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1130.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1131.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1132.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1133.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1134.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1135.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1136.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1137.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1138.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1139.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile114.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1140.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1141.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1142.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1143.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1144.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1145.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1146.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1147.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1148.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1149.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile115.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1151.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1152.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1153.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1154.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1155.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1156.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1157.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1158.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1159.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile116.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1160.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1161.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1162.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1163.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1164.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1165.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1166.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1167.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1168.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1169.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile117.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1170.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1171.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1172.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1173.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1174.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1175.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1176.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1177.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1178.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1179.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile118.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1180.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1181.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1182.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1183.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1184.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1185.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1186.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1187.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1188.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1189.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile119.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1190.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1191.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1192.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1193.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1194.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1195.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1196.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1197.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1198.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1199.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile120.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1201.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1202.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1203.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1204.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1205.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1206.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1207.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1208.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1209.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile121.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1210.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1211.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1212.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1213.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1214.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1215.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1216.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1217.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1218.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1219.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile122.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1220.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1221.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1222.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1223.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1224.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1225.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1226.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1227.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1228.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1229.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile123.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1230.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1231.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1232.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1233.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1234.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1235.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1236.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1237.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1238.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1239.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile124.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1240.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1241.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1242.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1243.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1244.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1245.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1246.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1247.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1248.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1249.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile125.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1250.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1251.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1252.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1253.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1254.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1255.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1256.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1257.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1258.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1259.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile126.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1260.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1261.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1262.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1263.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1264.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1265.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1266.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1267.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1268.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1269.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile127.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1270.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1271.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1272.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1273.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1274.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1275.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1276.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1277.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1278.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1279.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile128.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1280.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1281.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1282.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1283.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1284.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1285.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1286.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1287.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1288.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1289.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile129.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1290.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1291.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1292.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1293.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1294.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1295.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1296.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1297.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1298.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1299.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile130.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1301.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1302.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1303.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1304.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1305.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1306.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1307.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1308.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1309.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile131.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1310.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1311.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1312.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1313.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1314.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1315.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1316.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1317.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1318.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1319.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile132.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1320.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1321.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1322.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1323.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1325.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1326.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1327.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1328.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1329.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile133.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1330.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1331.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1332.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1333.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1334.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1335.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1336.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile1337.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile134.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile135.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile136.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile137.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile138.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile139.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile140.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile141.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile142.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile143.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile144.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile145.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile146.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile147.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile148.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile149.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile150.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile151.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile152.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile153.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile154.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile155.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile156.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile157.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile158.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile159.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile160.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile161.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile162.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile163.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile164.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile165.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile166.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile167.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile168.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile169.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile170.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile171.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile172.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile173.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile174.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile175.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile176.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile177.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile178.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile179.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile180.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile181.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile182.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile183.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile184.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile185.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile186.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile187.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile188.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile189.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile190.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile191.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile192.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile193.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile194.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile195.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile196.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile197.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile198.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile199.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile201.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile202.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile203.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile204.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile205.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile206.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile207.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile208.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile209.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile210.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile211.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile212.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile213.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile214.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile215.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile216.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile217.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile218.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile219.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile220.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile221.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile222.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile223.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile224.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile225.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile226.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile227.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile228.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile229.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile230.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile231.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile232.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile233.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile234.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile235.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile236.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile237.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile238.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile239.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile24.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile240.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile241.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile242.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile243.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile244.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile245.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile246.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile247.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile248.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile249.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile25.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile250.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile251.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile252.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile253.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile254.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile255.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile256.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile257.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile258.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile259.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile26.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile260.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile261.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile262.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile263.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile264.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile265.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile266.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile267.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile268.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile269.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile27.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile270.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile271.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile272.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile273.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile274.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile275.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile276.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile277.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile278.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile279.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile28.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile280.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile281.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile282.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile283.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile284.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile285.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile286.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile287.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile288.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile289.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile29.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile290.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile291.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile292.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile293.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile294.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile295.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile296.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile297.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile298.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile299.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile30.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile300.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile301.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile302.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile303.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile304.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile305.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile306.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile307.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile308.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile309.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile31.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile310.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile311.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile312.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile313.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile314.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile315.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile316.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile317.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile318.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile319.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile32.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile320.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile321.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile322.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile323.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile325.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile326.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile327.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile328.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile329.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile33.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile330.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile331.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile332.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile333.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile334.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile335.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile336.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile337.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile338.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile339.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile34.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile340.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile341.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile342.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile343.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile344.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile345.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile346.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile347.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile348.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile349.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile35.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile350.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile351.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile352.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile353.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile354.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile355.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile356.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile357.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile358.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile359.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile36.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile360.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile361.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile362.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile363.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile364.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile365.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile366.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile367.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile368.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile369.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile37.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile370.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile371.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile372.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile373.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile374.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile375.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile376.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile377.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile378.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile379.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile38.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile380.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile381.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile382.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile383.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile384.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile385.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile386.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile387.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile388.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile389.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile39.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile390.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile391.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile392.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile393.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile394.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile395.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile396.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile397.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile398.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile399.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile40.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile400.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile401.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile402.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile403.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile404.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile405.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile406.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile407.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile408.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile409.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile41.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile410.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile411.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile412.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile413.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile414.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile415.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile416.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile417.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile418.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile419.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile42.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile420.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile421.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile422.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile423.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile424.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile425.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile426.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile427.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile428.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile429.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile43.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile430.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile431.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile432.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile433.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile434.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile435.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile436.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile437.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile438.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile439.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile44.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile440.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile441.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile442.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile443.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile444.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile445.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile446.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile447.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile448.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile449.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile45.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile450.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile451.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile452.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile453.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile454.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile455.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile456.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile457.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile458.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile459.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile46.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile460.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile461.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile462.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile463.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile464.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile465.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile466.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile467.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile468.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile469.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile47.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile470.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile471.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile472.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile473.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile474.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile475.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile476.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile477.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile478.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile479.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile48.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile480.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile481.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile482.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile483.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile484.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile485.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile486.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile487.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile488.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile489.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile49.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile490.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile491.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile492.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile493.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile494.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile495.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile496.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile497.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile498.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile499.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile500.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile501.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile502.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile503.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile504.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile505.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile506.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile507.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile508.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile509.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile51.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile510.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile511.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile512.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile513.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile514.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile515.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile516.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile517.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile518.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile519.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile52.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile520.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile521.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile522.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile523.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile524.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile525.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile526.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile527.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile528.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile529.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile53.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile530.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile531.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile532.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile533.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile534.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile535.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile536.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile537.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile538.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile539.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile54.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile540.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile541.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile542.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile543.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile544.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile545.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile546.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile547.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile548.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile549.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile55.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile550.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile551.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile552.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile553.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile554.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile555.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile556.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile557.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile558.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile559.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile56.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile560.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile561.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile562.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile563.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile564.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile565.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile566.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile567.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile568.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile569.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile57.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile570.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile571.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile572.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile573.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile574.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile575.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile576.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile577.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile578.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile579.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile58.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile580.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile581.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile582.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile583.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile584.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile585.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile586.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile587.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile588.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile589.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile59.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile590.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile591.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile592.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile593.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile594.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile595.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile596.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile597.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile598.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile599.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile60.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile601.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile602.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile603.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile604.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile605.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile606.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile607.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile608.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile609.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile61.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile610.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile611.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile612.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile613.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile614.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile615.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile616.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile617.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile618.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile619.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile62.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile620.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile621.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile622.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile623.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile624.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile625.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile626.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile627.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile628.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile629.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile63.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile630.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile631.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile632.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile633.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile634.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile635.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile636.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile637.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile638.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile639.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile64.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile640.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile641.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile642.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile643.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile644.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile645.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile646.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile647.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile648.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile649.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile65.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile650.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile651.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile652.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile653.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile654.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile655.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile656.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile657.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile658.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile659.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile66.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile660.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile661.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile662.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile663.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile664.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile665.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile666.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile667.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile668.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile669.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile67.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile670.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile671.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile672.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile673.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile674.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile675.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile676.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile677.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile678.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile679.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile68.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile680.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile681.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile682.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile683.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile684.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile685.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile686.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile687.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile688.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile689.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile69.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile690.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile691.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile692.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile693.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile694.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile695.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile696.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile697.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile698.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile699.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile70.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile700.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile701.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile702.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile703.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile704.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile705.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile706.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile707.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile708.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile709.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile71.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile710.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile711.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile712.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile713.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile714.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile715.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile716.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile717.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile718.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile719.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile72.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile720.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile721.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile722.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile723.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile724.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile725.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile726.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile727.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile728.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile729.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile73.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile730.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile731.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile732.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile733.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile734.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile735.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile736.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile737.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile738.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile739.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile74.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile740.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile741.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile742.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile743.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile744.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile745.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile746.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile747.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile748.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile749.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile75.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile750.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile751.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile752.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile753.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile754.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile755.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile756.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile757.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile758.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile759.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile76.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile760.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile761.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile762.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile763.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile764.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile765.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile766.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile767.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile768.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile769.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile77.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile770.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile771.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile772.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile773.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile774.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile775.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile776.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile777.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile778.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile779.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile78.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile780.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile781.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile782.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile783.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile784.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile785.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile786.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile787.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile788.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile789.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile79.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile790.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile791.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile792.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile793.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile794.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile795.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile796.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile797.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile798.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile799.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile80.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile800.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile801.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile802.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile803.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile804.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile805.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile806.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile807.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile808.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile809.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile81.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile810.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile811.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile812.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile813.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile814.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile815.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile816.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile817.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile818.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile819.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile82.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile820.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile821.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile822.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile823.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile824.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile825.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile826.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile827.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile828.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile829.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile83.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile830.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile831.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile832.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile833.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile834.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile835.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile836.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile837.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile838.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile839.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile84.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile840.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile841.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile842.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile843.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile844.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile845.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile846.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile847.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile848.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile849.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile85.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile850.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile851.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile852.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile853.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile854.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile855.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile856.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile857.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile858.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile859.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile86.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile860.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile861.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile862.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile863.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile864.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile865.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile866.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile867.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile868.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile869.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile87.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile870.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile871.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile872.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile873.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile874.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile875.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile876.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile877.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile878.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile879.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile88.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile880.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile881.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile882.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile883.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile884.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile885.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile886.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile887.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile888.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile889.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile89.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile890.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile891.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile892.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile893.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile894.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile895.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile896.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile897.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile898.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile899.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile90.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile900.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile901.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile902.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile903.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile904.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile905.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile906.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile907.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile908.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile909.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile91.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile910.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile911.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile912.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile913.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile914.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile915.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile916.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile917.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile918.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile919.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile92.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile920.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile921.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile922.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile923.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile924.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile925.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile926.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile927.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile928.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile929.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile93.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile930.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile931.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile932.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile933.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile934.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile935.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile936.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile937.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile938.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile939.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile94.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile940.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile941.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile942.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile943.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile944.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile945.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile946.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile947.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile948.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile949.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile95.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile950.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile951.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile952.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile953.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile954.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile955.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile956.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile957.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile958.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile959.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile96.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile960.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile961.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile962.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile963.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile964.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile965.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile966.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile967.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile968.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile969.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile97.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile970.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile971.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile972.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile973.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile974.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile975.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile976.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile977.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile978.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile979.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile98.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile980.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile981.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile982.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile983.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile984.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile985.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile986.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile987.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile988.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile989.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile99.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile990.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile991.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile992.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile993.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile994.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile995.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile996.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile997.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile998.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/images/tile999.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/ex6.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex6/mosaic.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Intro.iws" />
@@ -17,7 +1359,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Intro$convert_spoon_to_cup.coverage" NAME="convert_spoon_to_cup Coverage Results" MODIFIED="1479139487255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex2" />
     <SUITE FILE_PATH="coverage/Intro$calculate_mathematical_expression.coverage" NAME="calculate_mathematical_expression Coverage Results" MODIFIED="1480309398181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex2" />
-    <SUITE FILE_PATH="coverage/Intro$hangman.coverage" NAME="hangman Coverage Results" MODIFIED="1481013092914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex4" />
+    <SUITE FILE_PATH="coverage/Intro$hangman.coverage" NAME="hangman Coverage Results" MODIFIED="1481022632568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex4" />
     <SUITE FILE_PATH="coverage/Intro$largest_and_smallest.coverage" NAME="largest_and_smallest Coverage Results" MODIFIED="1479155335845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex2" />
     <SUITE FILE_PATH="coverage/Intro$math_print.coverage" NAME="math_print Coverage Results" MODIFIED="1478541442821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex1" />
     <SUITE FILE_PATH="coverage/Intro$bmi.coverage" NAME="bmi Coverage Results" MODIFIED="1479848281823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex2" />
@@ -44,24 +1386,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="hangman_helper.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex4/hangman_helper.py">
+      <file leaf-file-name="ex6.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ex6/ex6.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4356">
-              <caret line="203" column="38" lean-forward="false" selection-start-line="203" selection-start-column="31" selection-end-line="203" selection-end-column="38" />
-              <folding>
-                <marker date="1480896802000" expanded="true" signature="2213:2215" ph="..." />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hangman.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ex4/hangman.py">
+      <file leaf-file-name="mosaic.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex6/mosaic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -111,6 +1453,7 @@
         <option value="$PROJECT_DIR$/ex4/hangman_helper.py" />
         <option value="$USER_HOME$/Documents/ex4/hangman.py" />
         <option value="$PROJECT_DIR$/ex4/hangman.py" />
+        <option value="$PROJECT_DIR$/ex4/hangman - not stable.py" />
       </list>
     </option>
   </component>
@@ -123,7 +1466,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
-    <option name="width" value="1938" />
+    <option name="width" value="1934" />
     <option name="height" value="1048" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -161,33 +1504,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Extensions" />
-              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyRootNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.intellij.database" />
-              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyPsiNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Intro" />
+              <option name="myItemId" value="Intro2cs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Intro" />
+              <option name="myItemId" value="Intro2cs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Intro2cs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Intro2cs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ex6" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -221,11 +1560,29 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Extensions" />
+              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.intellij.database" />
+              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyPsiNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/ex4/hangman.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
   </component>
@@ -678,7 +2035,14 @@
       <option name="project" value="LOCAL" />
       <updated>1481013440230</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="made get a hint more effecient">
+      <created>1481013476650</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1481013476650</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -687,29 +2051,29 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="false" />
+    <frame x="-9" y="-9" width="1934" height="1048" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16756175" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17653391" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26840317" sideWeight="0.53061223" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26840317" sideWeight="0.5327605" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32842582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32822758" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26840317" sideWeight="0.46938777" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39824945" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26840317" sideWeight="0.46723953" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32945284" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39824945" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -749,10 +2113,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ex2/quadratic_equation.py" />
-    <entry file="file://$PROJECT_DIR$/ex2/shapes.py" />
-    <entry file="file://$PROJECT_DIR$/ex2/quadratic_equation.py" />
-    <entry file="file://$PROJECT_DIR$/ex2/calculate_mathematical_expression.py" />
     <entry file="file://$PROJECT_DIR$/ex2/quadratic_equation.py" />
     <entry file="file://$PROJECT_DIR$/ex1/math_print.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -959,21 +2319,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Documents/ex4/hangman.py" />
+    <entry file="file://$PROJECT_DIR$/ex4/hangman - not stable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="234" column="61" lean-forward="false" selection-start-line="234" selection-start-column="61" selection-end-line="234" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex4/hangman.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="171" column="15" lean-forward="false" selection-start-line="171" selection-start-column="15" selection-end-line="171" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ex4/hangman_helper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4356">
+        <state relative-caret-position="22">
           <caret line="203" column="38" lean-forward="false" selection-start-line="203" selection-start-column="31" selection-end-line="203" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex5/ex5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex6/mosaic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1480896802000" expanded="true" signature="2213:2215" ph="..." />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/ex4/hangman.py" />
-    <entry file="file://$PROJECT_DIR$/ex4/hangman.py">
+    <entry file="file://$PROJECT_DIR$/ex6/ex6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
