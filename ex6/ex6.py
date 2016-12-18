@@ -173,13 +173,9 @@ def make_mosaic(image, tiles, num_candidates):
     # parameters, assuming all tiles are the same size
     image_height = len(image)
     image_width = len(image[0])
-    print(image_height, image_width)
     tile_possessed_height = len(tiles[0])
     tile_possessed_width = len(tiles[0][0])
-    print(tile_possessed_height, tile_possessed_width)
-    print('prepreccesing tiles')
     tile_averages = preprocess_tiles(tiles)
-    print('preprecces tiles DONE')
     # a tuple for each section's size
     section_size = (tile_possessed_height, tile_possessed_width)
     # counter indexes
@@ -188,14 +184,12 @@ def make_mosaic(image, tiles, num_candidates):
     while current_row < image_height:  # a loop for each row
         while current_column < image_width:  # a loop for each column
             current_upper_left = (current_row, current_column)
-            print(current_upper_left)
             original_piece = get_piece(image, current_upper_left, section_size)
             tile_candidates = get_best_tiles(original_piece, tiles,
                                              tile_averages, num_candidates)
             best_tile = choose_tile(original_piece, tile_candidates)
             set_piece(image, current_upper_left, best_tile)
             current_column += tile_possessed_width
-            print('DONE')
         # reset column and add row
         current_column = 0
         current_row += tile_possessed_height
@@ -203,26 +197,23 @@ def make_mosaic(image, tiles, num_candidates):
     return image
 
 
-
-# if __name__ == '__main__':
-#     if len(sys.argv) == NUMBER_OF_ARGUMENTS + 1:
-#         image_source = sys.argv[1]
-#         image_dir = sys.argv[2]
-#         output_name = sys.argv[3]
-#         tile_height_input = int(sys.argv[4])
-#         num_candidates_input = int(sys.argv[5])
-#         if tile_height_input <= 0:
-#             print('tile height MUST be larger then 0')
-#             quit()
-#         if num_candidates_input <= 0:
-#             print('number of candidates MUST be larger then 0')
-#             quit()
-#         source_image = mosaic.load_image(image_source)
-#         print('procces tiles STARTED')
-#         tiles_base = mosaic.build_tile_base(image_dir, tile_height_input)
-#         print('procces tiles COMPLETE')
-#         mosaic_image = make_mosaic(source_image, tiles_base, num_candidates_input)
-#         mosaic.save(mosaic_image, output_name)
-#         mosaic.show(mosaic_image)
-#     else:
-#         print(WRONG_ARG)
+if __name__ == '__main__':
+    if len(sys.argv) == NUMBER_OF_ARGUMENTS + 1:
+        image_source = sys.argv[1]
+        image_dir = sys.argv[2]
+        output_name = sys.argv[3]
+        tile_height_input = int(sys.argv[4])
+        num_candidates_input = int(sys.argv[5])
+        if tile_height_input <= 0:
+            print('tile height MUST be larger then 0')
+            quit()
+        if num_candidates_input <= 0:
+            print('number of candidates MUST be larger then 0')
+            quit()
+        source_image = mosaic.load_image(image_source)
+        tiles_base = mosaic.build_tile_base(image_dir, tile_height_input)
+        mosaic_image= make_mosaic(source_image,tiles_base,num_candidates_input)
+        mosaic.save(mosaic_image, output_name)
+        mosaic.show(mosaic_image)
+    else:
+        print(WRONG_ARG)
