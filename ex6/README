@@ -3,14 +3,18 @@ Xelanos
 Or Mizrahi
 
 =============================
-=  README for ex#: somthing  =
+=  README for ex6: Mosaic  =
 =============================
 
 
 ==================
 =  Description:  =
 ==================
+A program which takes a reqested image and returns a mosaic
+made of smaller images which resamble the original image.
 
+The script should be run with argument as followes :
+ex6.py <image_source> <images_dir> <output_name> <tile_height> <num_candidates>
 
 ======================
 =  Special Comments  =

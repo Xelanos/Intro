@@ -115,8 +115,8 @@ def average(image):
 
     # averaging
     average_red = sum(red_list) / number_of_pixels
-    average_green = sum(blue_list) / number_of_pixels
-    average_blue = sum(green_list) / number_of_pixels
+    average_green = sum(green_list) / number_of_pixels
+    average_blue = sum(blue_list) / number_of_pixels
 
     return average_red, average_green, average_blue
 
@@ -204,25 +204,25 @@ def make_mosaic(image, tiles, num_candidates):
 
 
 
-if __name__ == '__main__':
-    if len(sys.argv) == NUMBER_OF_ARGUMENTS + 1:
-        image_source = sys.argv[1]
-        image_dir = sys.argv[2]
-        output_name = sys.argv[3]
-        tile_height_input = int(sys.argv[4])
-        num_candidates_input = int(sys.argv[5])
-        if tile_height_input <= 0:
-            print('tile height MUST be larger then 0')
-            quit()
-        if num_candidates_input <= 0:
-            print('number of candidates MUST be larger then 0')
-            quit()
-        source_image = mosaic.load_image(image_source)
-        print('procces tiles STARTED')
-        tiles_base = mosaic.build_tile_base(image_dir, tile_height_input)
-        print('procces tiles COMPLETE')
-        mosaic_image = make_mosaic(source_image, tiles_base, num_candidates_input)
-        mosaic.save(mosaic_image, output_name)
-        mosaic.show(mosaic_image)
-    else:
-        print(WRONG_ARG)
+# if __name__ == '__main__':
+#     if len(sys.argv) == NUMBER_OF_ARGUMENTS + 1:
+#         image_source = sys.argv[1]
+#         image_dir = sys.argv[2]
+#         output_name = sys.argv[3]
+#         tile_height_input = int(sys.argv[4])
+#         num_candidates_input = int(sys.argv[5])
+#         if tile_height_input <= 0:
+#             print('tile height MUST be larger then 0')
+#             quit()
+#         if num_candidates_input <= 0:
+#             print('number of candidates MUST be larger then 0')
+#             quit()
+#         source_image = mosaic.load_image(image_source)
+#         print('procces tiles STARTED')
+#         tiles_base = mosaic.build_tile_base(image_dir, tile_height_input)
+#         print('procces tiles COMPLETE')
+#         mosaic_image = make_mosaic(source_image, tiles_base, num_candidates_input)
+#         mosaic.save(mosaic_image, output_name)
+#         mosaic.show(mosaic_image)
+#     else:
+#         print(WRONG_ARG)
