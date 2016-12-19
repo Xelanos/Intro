@@ -1,6 +1,7 @@
 from math import fabs
 from sys import argv
 from copy import deepcopy
+import heapq
 import mosaic
 
 RED = 0
@@ -92,8 +93,6 @@ def set_piece(image, upper_left, piece):
     # getting the final row/column allowed
     final_height = min(max_rows_allowed, expected_height)
     final_width = min(max_columns_allowed, expected_width)
-    piece_final_row = final_height - upper_left[HEIGHT]
-    piece_final_col = final_width - upper_left[WIDTH]
     # piece counters
     piece_row = 0
     piece_column = 0
@@ -104,19 +103,14 @@ def set_piece(image, upper_left, piece):
         # reset row, add column
         piece_column = 0
         piece_row += 1
-    # image[upper_left[HEIGHT]:final_height][upper_left[WIDTH]:final_width] =\
-    #     piece[:piece_final_row][:piece_final_col]
-    # mosaic.show(image)
-
-test = mosaic.load_image('im1.jpg')
-test_pe = mosaic.load_image('piece.jpg')
-upper = (0, 0)
-set_piece(test,upper, test_pe)
-
-
 
 
 def average(image):
+    """
+    takes an image an returns the avarge pixel
+    :param image: an image (list of lists of pixels)
+    :return: average pixel color (RGB tuple)
+    """
     # pixels are rows * columns
     number_of_pixels = len(image) * len(image[COLUMN])
     red_list = []
@@ -159,14 +153,21 @@ def get_best_tiles(objective, tiles, averages, num_candidates):
     for tile_average in averages:
         list_of_distances.append(compare_pixel(objective_avg, tile_average))
 
-    # making candidate index list
-    candidates_indices_list = []
-    k = 0
-    for (i, distance) in enumerate(list_of_distances):
-        if k < num_candidates:
-            if distance == min(list_of_distances[i:]):
-                candidates_indices_list.append(i)
-                k += 1
+    # getting the indices list trough a heap
+    candidates_indices_list = heapq.nsmallest(num_candidates,
+                                              range(len(list_of_distances)),
+                                              list_of_distances.__getitem__)
+    # # making candidate index list
+    # candidates_indices_list = []
+    # k = 0
+    # for (i, distance) in enumerate(list_of_distances):
+    #     if k < num_candidates:
+    #         if distance == min(list_of_distances[i:]):
+    #             candidates_indices_list.append(i)
+    #             k += 1
+    #     else:
+    #         break
+
     # getting the tiles
     candidate_list = []
     for index in candidates_indices_list:
@@ -176,6 +177,13 @@ def get_best_tiles(objective, tiles, averages, num_candidates):
 
 
 def choose_tile(piece, tiles):
+    """
+    return the best tile that fits the list according to pixel-to-pixel
+    distance between them.
+    :param piece:  an image (list of lists of pixels)
+    :param tiles: a list of images
+    :return: the best tile in image format
+    """
     list_of_comparisons = []
     for tile in tiles:
         tile_distance = compare(piece, tile)
@@ -196,6 +204,7 @@ def make_mosaic(image, tiles, num_candidates):
     tile_averages = preprocess_tiles(tiles)
     # a tuple for each section's size
     section_size = (tile_possessed_height, tile_possessed_width)
+
     # counter indexes
     current_row = 0
     current_column = 0
@@ -208,29 +217,30 @@ def make_mosaic(image, tiles, num_candidates):
             the_best_tile = choose_tile(original_piece, tile_candidates)
             set_piece(mosaic_image, current_upper_left, the_best_tile)
             current_column += tile_possessed_width
+            print('DONE', current_upper_left)
         # reset column and add row
         current_column = 0
         current_row += tile_possessed_height
 
     return mosaic_image
 
-# # running the function if EX6 is main
-# if __name__ == '__main__':
-#     if len(argv) == NUMBER_OF_ARGUMENTS + 1:
-#         image_source = argv[1]
-#         image_dir = argv[2]
-#         output_name = argv[3]
-#         tile_height_input = int(argv[4])
-#         num_candidates_input = int(argv[5])
-#         if tile_height_input <= ALLOWED_TILE_INPUT:
-#             print('tile height MUST be larger then 0')
-#             quit()
-#         if num_candidates_input <= ALLOWED_NUM_CANDIDATES:
-#             print('number of candidates MUST be larger then 0')
-#             quit()
-#         source_image = mosaic.load_image(image_source)
-#         tiles_base = mosaic.build_tile_base(image_dir, tile_height_input)
-#         final_image = make_mosaic(source_image,tiles_base,num_candidates_input)
-#         mosaic.save(final_image, output_name)
-#     else:
-#         print(WRONG_ARG)
+# running the function if EX6 is main
+if __name__ == '__main__':
+    if len(argv) == NUMBER_OF_ARGUMENTS + 1:
+        image_source = argv[1]
+        image_dir = argv[2]
+        output_name = argv[3]
+        tile_height_input = int(argv[4])
+        num_candidates_input = int(argv[5])
+        if tile_height_input <= ALLOWED_TILE_INPUT:
+            print('tile height MUST be larger then 0')
+            quit()
+        if num_candidates_input <= ALLOWED_NUM_CANDIDATES:
+            print('number of candidates MUST be larger then 0')
+            quit()
+        source_image = mosaic.load_image(image_source)
+        tiles_base = mosaic.build_tile_base(image_dir, tile_height_input)
+        final_image = make_mosaic(source_image,tiles_base,num_candidates_input)
+        mosaic.save(final_image, output_name)
+    else:
+        print(WRONG_ARG)
