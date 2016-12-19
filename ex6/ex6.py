@@ -9,6 +9,9 @@ BLUE = 2
 MAX_PIXEL_DISTANCE = 765
 HEIGHT = 0
 WIDTH = 1
+COLUMN = 0
+ALLOWED_TILE_INPUT = 0
+ALLOWED_NUM_CANDIDATES = 0
 NUMBER_OF_ARGUMENTS = 5
 WRONG_ARG = 'Wrong number of parameters. The correct usage is:\n' \
             'ex6.py <image_source> <images_dir> <output_name> ' \
@@ -37,7 +40,7 @@ def compare(image1, image2):
     """
     total_distance = 0  # starting value
     max_rows = min(len(image1), len(image2))
-    max_columns = min(len(image1[0]), len(image2[0]))
+    max_columns = min(len(image1[COLUMN]), len(image2[COLUMN]))
     for row in range(max_rows):
         for column in range(max_columns):
             pixel_distance = compare_pixel(image1[row][column],
@@ -60,7 +63,7 @@ def get_piece(image, upper_left, size):
     """
     # values
     max_rows_allowed = len(image)
-    max_columns_allowed = len(image[0])
+    max_columns_allowed = len(image[COLUMN])
     expected_height = upper_left[HEIGHT] + size[HEIGHT]
     expected_width = upper_left[WIDTH] + size[WIDTH]
     # getting the final row/column allowed
@@ -83,12 +86,14 @@ def set_piece(image, upper_left, piece):
     """
     # values
     max_rows_allowed = len(image)
-    max_columns_allowed = len(image[0])
+    max_columns_allowed = len(image[COLUMN])
     expected_height = upper_left[HEIGHT] + len(piece)
-    expected_width = upper_left[WIDTH] + len(piece[0])
+    expected_width = upper_left[WIDTH] + len(piece[COLUMN])
     # getting the final row/column allowed
     final_height = min(max_rows_allowed, expected_height)
     final_width = min(max_columns_allowed, expected_width)
+    piece_final_row = final_height - upper_left[HEIGHT]
+    piece_final_col = final_width - upper_left[WIDTH]
     # piece counters
     piece_row = 0
     piece_column = 0
@@ -99,17 +104,28 @@ def set_piece(image, upper_left, piece):
         # reset row, add column
         piece_column = 0
         piece_row += 1
+    # image[upper_left[HEIGHT]:final_height][upper_left[WIDTH]:final_width] =\
+    #     piece[:piece_final_row][:piece_final_col]
+    # mosaic.show(image)
+
+test = mosaic.load_image('im1.jpg')
+test_pe = mosaic.load_image('piece.jpg')
+upper = (0, 0)
+set_piece(test,upper, test_pe)
+
+
 
 
 def average(image):
-    number_of_pixels = len(image) * len(image[0])  # pixels are rows * columns
+    # pixels are rows * columns
+    number_of_pixels = len(image) * len(image[COLUMN])
     red_list = []
     green_list = []
     blue_list = []
 
     # extracting vales for each pixel
     for row in range(len(image)):
-        for column in range(len(image[0])):
+        for column in range(len(image[COLUMN])):
             red_list.append(image[row][column][RED])
             green_list.append(image[row][column][GREEN])
             blue_list.append(image[row][column][BLUE])
@@ -174,9 +190,9 @@ def make_mosaic(image, tiles, num_candidates):
     mosaic_image = deepcopy(image)
     # parameters, assuming all tiles are the same size
     image_height = len(image)
-    image_width = len(image[0])
+    image_width = len(image[COLUMN])
     tile_possessed_height = len(tiles[0])
-    tile_possessed_width = len(tiles[0][0])
+    tile_possessed_width = len(tiles[0][COLUMN])
     tile_averages = preprocess_tiles(tiles)
     # a tuple for each section's size
     section_size = (tile_possessed_height, tile_possessed_width)
@@ -198,23 +214,23 @@ def make_mosaic(image, tiles, num_candidates):
 
     return mosaic_image
 
-
-if __name__ == '__main__':
-    if len(argv) == NUMBER_OF_ARGUMENTS + 1:
-        image_source = argv[1]
-        image_dir = argv[2]
-        output_name = argv[3]
-        tile_height_input = int(argv[4])
-        num_candidates_input = int(argv[5])
-        if tile_height_input <= 0:
-            print('tile height MUST be larger then 0')
-            quit()
-        if num_candidates_input <= 0:
-            print('number of candidates MUST be larger then 0')
-            quit()
-        source_image = mosaic.load_image(image_source)
-        tiles_base = mosaic.build_tile_base(image_dir, tile_height_input)
-        final_image= make_mosaic(source_image, tiles_base, num_candidates_input)
-        mosaic.save(final_image, output_name)
-    else:
-        print(WRONG_ARG)
+# # running the function if EX6 is main
+# if __name__ == '__main__':
+#     if len(argv) == NUMBER_OF_ARGUMENTS + 1:
+#         image_source = argv[1]
+#         image_dir = argv[2]
+#         output_name = argv[3]
+#         tile_height_input = int(argv[4])
+#         num_candidates_input = int(argv[5])
+#         if tile_height_input <= ALLOWED_TILE_INPUT:
+#             print('tile height MUST be larger then 0')
+#             quit()
+#         if num_candidates_input <= ALLOWED_NUM_CANDIDATES:
+#             print('number of candidates MUST be larger then 0')
+#             quit()
+#         source_image = mosaic.load_image(image_source)
+#         tiles_base = mosaic.build_tile_base(image_dir, tile_height_input)
+#         final_image = make_mosaic(source_image,tiles_base,num_candidates_input)
+#         mosaic.save(final_image, output_name)
+#     else:
+#         print(WRONG_ARG)
