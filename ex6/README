@@ -1,0 +1,25 @@
+Xelanos
+308484625
+Or Mizrahi
+
+=============================
+=  README for ex6: Mosaic  =
+=============================
+
+
+==================
+=  Description:  =
+==================
+A program which takes a reqested image and returns a mosaic
+made of smaller images which resamble the original image.
+
+The script should be run with argument as followes :
+ex6.py <image_source> <images_dir> <output_name> <tile_height> <num_candidates>
+
+======================
+=  Special Comments  =
+======================
+I discussed the exercise with: myself (a great conversion partner)
+I also used:
+http://stackoverflow.com/
+https://docs.python.org/3/library/
