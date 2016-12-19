@@ -1,3 +1,10 @@
+##############################################
+# FILE: ex6.py
+# WRITER: Or Mizrahi, Xelanos, 308484625
+# DESCRIPTION: A program which takes a requested image and returns a mosaic
+# made of smaller images which resemble the original image.
+##############################################
+
 from math import fabs
 from sys import argv
 from copy import deepcopy
@@ -146,29 +153,26 @@ def preprocess_tiles(tiles):
 
 
 def get_best_tiles(objective, tiles, averages, num_candidates):
-    # first we will get the average fo the objective
+    """
+    :param objective: image to match
+    :param tiles: a list of tiles (each one an image)
+    :param averages: a list of average pixel color corresponding to tiles
+    :param num_candidates: number of candidates to search for (int)
+    :return: num_candidtes tiles that best matches the objective according
+     to average pixel distance
+    """
+    # first we will get the average for the objective
     objective_avg = average(objective)
     # getting list of distances to work with
     list_of_distances = []
     for tile_average in averages:
         list_of_distances.append(compare_pixel(objective_avg, tile_average))
 
-    # getting the indices list trough a heap
+    # getting the indices of smallest distances list trough a heap
     candidates_indices_list = heapq.nsmallest(num_candidates,
                                               range(len(list_of_distances)),
                                               list_of_distances.__getitem__)
-    # # making candidate index list
-    # candidates_indices_list = []
-    # k = 0
-    # for (i, distance) in enumerate(list_of_distances):
-    #     if k < num_candidates:
-    #         if distance == min(list_of_distances[i:]):
-    #             candidates_indices_list.append(i)
-    #             k += 1
-    #     else:
-    #         break
-
-    # getting the tiles
+    # making the candidate list
     candidate_list = []
     for index in candidates_indices_list:
         candidate_list.append(tiles[index])
@@ -195,6 +199,13 @@ def choose_tile(piece, tiles):
 
 
 def make_mosaic(image, tiles, num_candidates):
+    """
+    make a mosaic of image from tiles provided
+    :param image: image to make mosaic of
+    :param tiles: a list of tiles (each one an image)
+    :param num_candidates: number of candidates of tiles to search for
+    :return: A mosaic of 'image' compramised of tiles from 'tiles' (as image)
+    """
     mosaic_image = deepcopy(image)
     # parameters, assuming all tiles are the same size
     image_height = len(image)
@@ -210,14 +221,15 @@ def make_mosaic(image, tiles, num_candidates):
     current_column = 0
     while current_row < image_height:  # a loop for each row
         while current_column < image_width:  # a loop for each column
+            # each section process
             current_upper_left = (current_row, current_column)
             original_piece = get_piece(image, current_upper_left, section_size)
             tile_candidates = get_best_tiles(original_piece, tiles,
                                              tile_averages, num_candidates)
             the_best_tile = choose_tile(original_piece, tile_candidates)
             set_piece(mosaic_image, current_upper_left, the_best_tile)
+            #
             current_column += tile_possessed_width
-            print('DONE', current_upper_left)
         # reset column and add row
         current_column = 0
         current_row += tile_possessed_height

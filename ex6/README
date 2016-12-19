@@ -10,10 +10,10 @@ Or Mizrahi
 ==================
 =  Description:  =
 ==================
-A program which takes a reqested image and returns a mosaic
-made of smaller images which resamble the original image.
+A program which takes a requested image and returns a mosaic
+made of smaller images which resemble the original image.
 
-The script should be run with argument as followes :
+The script should be run with arguments as followed :
 ex6.py <image_source> <images_dir> <output_name> <tile_height> <num_candidates>
 
 ======================
