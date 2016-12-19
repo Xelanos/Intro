@@ -1,10 +1,12 @@
-import math
-import sys
+from math import fabs
+from sys import argv
+from copy import deepcopy
 import mosaic
 
 RED = 0
 GREEN = 1
 BLUE = 2
+MAX_PIXEL_DISTANCE = 765
 HEIGHT = 0
 WIDTH = 1
 NUMBER_OF_ARGUMENTS = 5
@@ -22,8 +24,7 @@ def compare_pixel(pixel1, pixel2):
     total_red = pixel1[RED] - pixel2[RED]
     total_green = pixel1[GREEN] - pixel2[GREEN]
     total_blue = pixel1[BLUE] - pixel2[BLUE]
-    total_difference = math.fabs(total_red) + math.fabs(total_green) + \
-                       math.fabs(total_blue)
+    total_difference = fabs(total_red) + fabs(total_green) + fabs(total_blue)
     return total_difference
 
 
@@ -142,16 +143,15 @@ def get_best_tiles(objective, tiles, averages, num_candidates):
     for tile_average in averages:
         list_of_distances.append(compare_pixel(objective_avg, tile_average))
 
-    # finding the indices for candidates
+    # making candidate index list
     candidates_indices_list = []
-    for i in range(num_candidates):
-        for (k, distance) in enumerate(list_of_distances):
-            if k in candidates_indices_list:
-                continue
-            elif distance == min(list_of_distances[k:]):
-                candidates_indices_list.append(k)
-
-    # making the candidate list
+    k = 0
+    for (i, distance) in enumerate(list_of_distances):
+        if k < num_candidates:
+            if distance == min(list_of_distances[i:]):
+                candidates_indices_list.append(i)
+                k += 1
+    # getting the tiles
     candidate_list = []
     for index in candidates_indices_list:
         candidate_list.append(tiles[index])
@@ -166,10 +166,12 @@ def choose_tile(piece, tiles):
         list_of_comparisons.append(tile_distance)
     min_distance = min(list_of_comparisons)
     min_index = list_of_comparisons.index(min_distance)
-    return tiles[min_index]
+    best_tile = tiles[min_index]
+    return best_tile
 
 
 def make_mosaic(image, tiles, num_candidates):
+    mosaic_image = deepcopy(image)
     # parameters, assuming all tiles are the same size
     image_height = len(image)
     image_width = len(image[0])
@@ -187,23 +189,23 @@ def make_mosaic(image, tiles, num_candidates):
             original_piece = get_piece(image, current_upper_left, section_size)
             tile_candidates = get_best_tiles(original_piece, tiles,
                                              tile_averages, num_candidates)
-            best_tile = choose_tile(original_piece, tile_candidates)
-            set_piece(image, current_upper_left, best_tile)
+            the_best_tile = choose_tile(original_piece, tile_candidates)
+            set_piece(mosaic_image, current_upper_left, the_best_tile)
             current_column += tile_possessed_width
         # reset column and add row
         current_column = 0
         current_row += tile_possessed_height
 
-    return image
+    return mosaic_image
 
 
 if __name__ == '__main__':
-    if len(sys.argv) == NUMBER_OF_ARGUMENTS + 1:
-        image_source = sys.argv[1]
-        image_dir = sys.argv[2]
-        output_name = sys.argv[3]
-        tile_height_input = int(sys.argv[4])
-        num_candidates_input = int(sys.argv[5])
+    if len(argv) == NUMBER_OF_ARGUMENTS + 1:
+        image_source = argv[1]
+        image_dir = argv[2]
+        output_name = argv[3]
+        tile_height_input = int(argv[4])
+        num_candidates_input = int(argv[5])
         if tile_height_input <= 0:
             print('tile height MUST be larger then 0')
             quit()
@@ -212,8 +214,7 @@ if __name__ == '__main__':
             quit()
         source_image = mosaic.load_image(image_source)
         tiles_base = mosaic.build_tile_base(image_dir, tile_height_input)
-        mosaic_image= make_mosaic(source_image,tiles_base,num_candidates_input)
-        mosaic.save(mosaic_image, output_name)
-        mosaic.show(mosaic_image)
+        final_image= make_mosaic(source_image, tiles_base, num_candidates_input)
+        mosaic.save(final_image, output_name)
     else:
         print(WRONG_ARG)
