@@ -1,4 +1,9 @@
+EMPTY_STRING = ''
+
+
 def print_to_n(n):
+    if n < 1:
+        return
     if n == 1:
         print(1)
     else:
@@ -7,6 +12,8 @@ def print_to_n(n):
 
 
 def print_reversed(n):
+    if n < 1:
+        return
     if n == 1:
         return print(n)
     else:
@@ -18,7 +25,8 @@ def has_divisor_smaller_then(n, i):
     """
     :param n: an int
     :param i: an int
-    :return: True if n has a divisor smaller then i(included) False if not
+    :return: True if n has a divisor smaller then i(included) False if not.
+    (other then the obvious 1)
     """
     if i == 2:
         if (n % i) != 0:
@@ -37,16 +45,36 @@ def is_prime(n):
         return True
 
 
-def divisors(n):
-    list_of_divisors = []
-    if n == 1:
-        return list_of_divisors.append(1)
+def divisors_rec(n, i, list_divisors=None):
+    """
+    :param list_divisors: a list of current divisors (starts as empty list)
+    :param n: an int
+    :param i: an int
+    :return: returns a list of the divisors of n starting from i, going down.
+    """
+    if list_divisors is None:
+        list_divisors = []
+    if i == 1:
+        return list_divisors.append(i)
     else:
-        pass
+        if n % i == 0:
+            list_divisors.append(i)
+            divisors_rec(n, i-1, list_divisors)
+            return list_divisors
+        else:
+            divisors_rec(n, i-1, list_divisors)
+            return list_divisors
 
 
+def divisors(n):
+    """
 
-
+    :param n: an int
+    :return: a list of all the divisors of n going down from n.
+    """
+    divisor = abs(n)
+    divisor_list = divisors_rec(n, divisor,)
+    return divisor_list
 
 
 def factorial(n):
@@ -70,14 +98,18 @@ def exp_n_x(n, x):
 def play_hanoi(hanoi, n, src, dest, temp):
     pass
 
-def print_binary_sequences_with_prefix(prefix,n):
-    if n == 1:
-        print(prefix)
+
+def print_binary_sequences_with_prefix(prefix, n):
+    if n < 1:
+        print(EMPTY_STRING)
     else:
-        print(print_binary_sequences_with_prefix(prefix,n-1)+str(0),
-              print_binary_sequences_with_prefix(prefix,n-1)+str(1))
+        if n == 1:
+            print(prefix)
+        else:
+            pass
 
 
+print_binary_sequences_with_prefix(0,2,)
 
 
 def print_binary_sequences(n):
