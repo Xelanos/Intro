@@ -1,0 +1,24 @@
+Xelanos
+308484625
+Or Mizrahi
+
+=============================
+=  README for ex7: recursion  =
+=============================
+
+
+==================
+=  Description:  =
+==================
+a few functions to parctice the use of recursion
+
+======================
+=  Special Comments  =
+======================
+I discussed the exercise with: yanirelfassy
+I also used:
+http://stackoverflow.com/
+https://docs.python.org/3/library/
+
+Hanoi algorithm highly inspired by :
+https://en.wikipedia.org/wiki/Tower_of_Hanoi#Iterative_solution
