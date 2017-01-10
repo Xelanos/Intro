@@ -27,12 +27,16 @@ class WikiNetwork:
     def __init__(self, link_list):
         article_dic = {}
         for link in link_list:
-            if link[TITLE] not in article_dic:
-                new_article = Article(link[TITLE])
-                new_article.add_neighbor(link[NEIGHBOR])
-                article_dic[link[TITLE]] = new_article
+            title = link[TITLE]
+            neighbor = link[NEIGHBOR]
+            if neighbor not in article_dic:
+                article_dic[neighbor] = Article(neighbor)
+            elif title not in article_dic:
+                new_article = Article(title)
+                new_article.add_neighbor(article_dic[neighbor])
+                article_dic[title] = new_article
             else:
-                article_dic[link[TITLE]].add_neighbor(link[NEIGHBOR])
+                article_dic[title].add_neighbor(article_dic[neighbor])
         self.__articles = article_dic
 
     def __contains__(self, title):
@@ -45,11 +49,10 @@ class WikiNetwork:
         return len(self.__articles)
 
     def __repr__(self):
-        # shallow copy the dict, we only need the references
-        string_dict = self.__articles.copy()
-        for title in string_dict:
-            # places article repr insted of articles
-            string_dict[title] = str(string_dict[title])
+        string_dict = {}
+        for title in self.__articles:
+            # places article repr instead of articles
+            string_dict[title] = self.__articles[title]
         return str(string_dict)
 
     def __getitem__(self, title):
@@ -66,4 +69,5 @@ class WikiNetwork:
                 self.__articles[link[TITLE]].add_neighbor(link[NEIGHBOR])
 
     def get_titles(self):
-        return self.__articles.keys()
+        return list(self.__articles.keys())
+
