@@ -1,0 +1,48 @@
+Xelanos
+308484625
+Or Mizrahi
+
+=============================
+=  README for ex10: Articles  =
+=============================
+
+
+==================
+=  Description:  =
+==================
+A program which represent a wiki network and it's properties.
+P.S : I choose to incorporate all of the article's references and money
+ in the network dictionary. I would've normally done so through the
+  article objects itself, but you asked not no change the API.
+  I've done so, even thought it takes more memory, to optimize run time
+
+
+
+======================
+=  Special Comments  =
+======================
+Answer to questions :
+
+Page Rank :
+#1 : United_States
+#2 : France
+#3 : Europe
+
+Jaccard :
+The_Simpsons - Tuvalu
+The_Lord_of_the_Rings - J._R._R._Tolkien
+Louis_XIV_of_France - William_III_of_England
+The_Godfather - Citizen_Kane
+
+Freinds :
+number of articles = 4581
+United_States depth 1 - 259/4581 = 6.439 %
+United_States_dollar depth 2 - 918/4581 = 20.039 %
+Microsoft depth 3 - 2532/4581 = 55.271 %
+
+
+
+I discussed the exercise with: tal makadoshi
+I also used:
+http://stackoverflow.com/
+https://docs.python.org/3/library/
