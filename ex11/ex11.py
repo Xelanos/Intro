@@ -12,7 +12,12 @@ def plot_func(graph, f, x0, x1, num_of_segments=SEGMENTS, c='black'):
     plot f between x0 to x1 using num_of_segments straight lines
     to the graph object. the function will be plotted in color c
     """
-    pass
+    delta = (x1 - x0) / num_of_segments
+    start_point = (x0, f(x0))
+    for i in range(num_of_segments):
+        end_point = (start_point[0] + delta, f(start_point[0] + delta))
+        graph.plot_line(start_point, end_point, c)
+        start_point = end_point
 
 
 def const_function(c):
@@ -22,7 +27,7 @@ def const_function(c):
     >>> const_function(4)(2)
     4
     """
-    pass
+    return lambda x: c
 
 
 def identity():
@@ -31,7 +36,7 @@ def identity():
     >>> identity()(3)
     3
     """
-    pass
+    return lambda x: x
 
 
 def sin_function():
@@ -39,27 +44,33 @@ def sin_function():
     >>> sin_function()(math.pi/2)
     1.0
     """
-    pass
+    return lambda x: math.sin(x)
 
 
 def sum_functions(g, h):
     """return f s.t. f(x) = g(x)+h(x)"""
-    pass
+    return lambda x: g(x) + h(x)
 
 
 def sub_functions(g, h):
     """return f s.t. f(x) = g(x)-h(x)"""
-    pass
+    return lambda x: g(x) - h(x)
 
 
 def mul_functions(g, h):
     """return f s.t. f(x) = g(x)*h(x)"""
-    pass
+    return lambda x: g(x) * h(x)
 
 
 def div_functions(g, h):
     """return f s.t. f(x) = g(x)/h(x)"""
-    pass
+    return lambda x: g(x) / h(x)
+
+
+def reverse_function(f):
+    """:return: (-f)"""
+    minus_f = sub_functions(const_function(0), f)
+    return minus_f
 
 
 def solve(f, x0=-10000, x1=10000, epsilon=EPSILON):
@@ -68,7 +79,37 @@ def solve(f, x0=-10000, x1=10000, epsilon=EPSILON):
     assuming that f is monotnic.
     If no solution was found return None
     """
-    pass
+
+    def binary_solve(g, starting_x, ending_x, stopping_width=0):
+        """
+        binary search to find solution in log time.
+        checks for a solution between starting_x to ending_x
+        :return: an x such a |f(x)|< epsilon (in float)
+        """
+        if ending_x - starting_x <= stopping_width:
+            return None
+        else:
+            midpoint = (starting_x + ending_x) / 2
+            if abs(g(midpoint)) < epsilon:
+                return midpoint
+            else:
+                # if we are lower then -epsilon, we need to search to the right
+                if g(midpoint) < -epsilon:
+                    return binary_solve(g, midpoint, ending_x)
+                else:
+                # if we are higher then epsilon, we need to search to the left
+                    return binary_solve(g, starting_x, midpoint)
+
+    if f(x0) * f(x1) >= 0:
+        return None
+    # If we have a monotonic up function we can use it for binary_solve.
+    # if it is monotonic down, we take (-f) which is monotonic up with the same
+    # solution
+    if f(x1) > f(x0):
+        return binary_solve(f, x0, x1)
+    else:
+        minus_f = reverse_function(f)
+        return binary_solve(minus_f, x0, x1)
 
 
 def inverse(g, epsilon=EPSILON):
@@ -78,12 +119,12 @@ def inverse(g, epsilon=EPSILON):
 
 def compose(g, h):
     """return the f which is the compose of g and h """
-    pass
+    return lambda x: g(h(x))
 
 
 def derivative(g, delta=DELTA):
     """return f s.t. f(x) = g'(x)"""
-    pass
+    return lambda x: ((g(x+delta) - g(x)) / delta)
 
 
 def definite_integral(f, x0, x1, num_of_segments=SEGMENTS):
@@ -92,22 +133,71 @@ def definite_integral(f, x0, x1, num_of_segments=SEGMENTS):
     >>> definite_integral(const_function(3),-2,3)
     15.0
     """
-    pass
+    delta = (x1 - x0) / num_of_segments
+    current_x = x0 + delta  # starting from x+delta because going back for sum
+    integral_sum = 0
+
+    for i in range(num_of_segments):
+        riemann_sum = f(current_x - delta / 2) * delta
+        integral_sum += riemann_sum
+        current_x += delta
+
+    return integral_sum
 
 
 def integral_function(f, delta=0.01):
     """return F such that F'(x) = f(x)"""
-    pass
+    def F(x):
+        num_of_segments = math.ceil(abs(x) / delta)
+        if x > 0:
+            return definite_integral(f, 0, x, num_of_segments)
+        if x < 0:
+            return definite_integral(reverse_function(f), x, 0,num_of_segments)
+        else:
+            return 0
+    return F
 
 
 def ex11_func_list():
     """return list with the functions in q.13"""
-    pass
+    func_list = []
+    two = const_function(2)
+    x = identity()
+    x_square = mul_functions(x, x)
+    cos = derivative(sin_function())
+    # function 0
+    func_list.append(const_function(4))
+    # function 1
+    func_list.append(sub_functions(const_function(3),sin_function()))
+    # function 2
+    func_list.append(compose(sin_function(),
+                             sub_functions(x, const_function(-2))))
+    # function 3
+    two_sin_x_square = sum_functions(two,
+                                     sum_functions(sin_function(), x_square))
+    func_list.append(div_functions(const_function(10), two_sin_x_square))
+    # function 4
+    func_list.append(div_functions(cos, sub_functions(sin_function(), two)))
+    # function 5
+    point_three_x_square = mul_functions(const_function(0.3), x_square)
+    point_seven_x = mul_functions(const_function(0.7), x)
+    quadric = sum_functions(point_three_x_square,
+                            sub_functions(point_seven_x, const_function(-1)))
+    func_list.append(mul_functions(const_function(-1),
+                                   integral_function(quadric)))
+    # function 6
+    cos_sin = compose(cos, sin_function())
+    point_three_cos = mul_functions(const_function(0.3), cos)
+    func_list.append(mul_functions(sub_functions(cos_sin, point_three_cos), 2))
+    # function 7
+
+
 
 
 # func that genrate the figure in the ex description
 def example_func(x):
     return (x/5)**3
+
 
 if __name__ == "__main__":
     import tkinter as tk
