@@ -124,13 +124,27 @@ def find_bounds(f, y):
 def inverse(g, epsilon=EPSILON):
     """return f s.t. f(g(x)) = x"""
     def inverse_function(y):
-        low_bound, high_bound = find_bounds(g, y)
-        function_to_solve = sub_functions(const_function(g(y)),identity())
-        return solve(function_to_solve, low_bound, high_bound, epsilon)
+        if y == 0:
+            upper_bound = 1
+            lower_bound = -1
+        else:
+            lower_bound = min(y / 2, -y/2)
+            upper_bound = max(y / 2, -y/2)
+
+        def function_to_solve(x): return g(x) - y
+
+        value = solve(function_to_solve, lower_bound, upper_bound, epsilon)
+        while not value:
+            lower_bound += lower_bound / 2
+            upper_bound += upper_bound / 2
+            value = solve(function_to_solve, lower_bound, upper_bound, epsilon)
+        return value
 
     return inverse_function
 
-inv = inverse(lambda x: x)
+
+
+inv = inverse(lambda x: x+1)
 
 
 def compose(g, h):
