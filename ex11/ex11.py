@@ -112,9 +112,25 @@ def solve(f, x0=-10000, x1=10000, epsilon=EPSILON):
         return binary_solve(minus_f, x0, x1)
 
 
+def find_bounds(f, y):
+    x = 1
+    while f(x) < y:
+        x *= 2
+    low = 0 if (x == 1) else x/2
+    return low, x
+
+
+
 def inverse(g, epsilon=EPSILON):
     """return f s.t. f(g(x)) = x"""
-    pass
+    def inverse_function(y):
+        low_bound, high_bound = find_bounds(g, y)
+        function_to_solve = sub_functions(const_function(g(y)),identity())
+        return solve(function_to_solve, low_bound, high_bound, epsilon)
+
+    return inverse_function
+
+inv = inverse(lambda x: x)
 
 
 def compose(g, h):
@@ -207,6 +223,7 @@ if __name__ == "__main__":
     # doctest.testmod()
     master = tk.Tk()
     graph = Graph(master, -10, -10, 10, 10)
+    plot_func(graph, inv, -10, 10)
     # un-tag the line below after implementation of plot_func
     # plot_func(graph,example_func,-10,10,SEGMENTS,'red')
     color_arr = ['black', 'blue', 'red', 'green', 'brown', 'purple',
